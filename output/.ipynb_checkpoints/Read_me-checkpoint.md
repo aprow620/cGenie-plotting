@@ -1,1 +1,1 @@
-This folder contains cGenie output from an experiment in Prow-Fleischer (in prep). The Single_Experiment is one of the files from the larger Ensemble. 
+This folder contains cGenie output (*.tar.gz) from an experiment in Prow-Fleischer et al (in prep). The Single_Experiment/single_time_slice is one of the files from the larger Ensemble. The Single_Experiment/multiple_time_slices is from an arbitrary experiment. 

@@ -1,0 +1,1 @@
+This folder contains example georeferenced geochemical data from Prow-Fleischer et al (in prep) used for overlaying localities in map view and for statisticical analysis. 
