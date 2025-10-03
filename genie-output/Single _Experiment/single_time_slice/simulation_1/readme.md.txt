@@ -1,0 +1,1 @@
+This folder includes a simulation that may represent a plausible Kellwasser state. Here is meant to just be a colder climate state than the other simulation 2 which is hotter and has different environmental parameters. Used here solely for illustrative purposes.
