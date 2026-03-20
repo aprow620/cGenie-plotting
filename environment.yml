@@ -1,0 +1,39 @@
+name: cGENIE
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.10
+
+  # -----------------------
+  # Core scientific stack
+  # -----------------------
+  - numpy
+  - pandas
+  - xarray
+  - scipy
+  - scikit-learn
+  - netcdf4
+
+  # -----------------------
+  # Plotting and visualization
+  # -----------------------
+  - matplotlib
+  - seaborn
+  - cartopy
+  - pillow
+  - geocat-viz
+
+  # -----------------------
+  # Utilities and IO
+  # -----------------------
+  - pathlib
+  - pip
+
+  # -----------------------
+  # Pip-only packages
+  # -----------------------
+  #- pip:
+   #   - pyjanitor
+    #  - skill-metrics
