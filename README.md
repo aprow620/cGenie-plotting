@@ -1,23 +1,38 @@
-# Python Jupyter Notebook scripts for plotting cGENIE (Grid-ENabled-Integrated Earth system model) output
-Designed specifically for use with ... but most file output is netcdf files or tab delimited files for time series data. Therefore the code presented here is likely interporable to other GENIE type model output.
+# Python Jupyter Notebook scripts for plotting cGENIE (Grid-ENabled-Integrated Earth system model)output
 
-This is also under constant development as I require a need to visualize new things. 
+or really any spatially-resolved model output.
+
+
+
+
 
 Authors: Ashley Prow-Fleischer  
+
+
 citations: built in conjunction with Prow-Fleischer et al. (in prep) and employs some output for demonstration
-    link to version of cGenie 
-    link to cGenie manual
-see also for other approaches: 
 
 
-# Licesning 
+However, for more generalizable analyses see. 
 
-Free to distribute and modify to suit your needs. 
 
-# Notes 
+
+Ying, R. (2024). cgeniepy: A Python package for analysing cGENIE Earth System Model output. Journal of Open Source Software, 9(101), 6762. https://doi.org/10.21105/joss.06762
+
+
+
+# Licensing
+
+Free to distribute and modify to suit your needs. Please cite 
+
+
+
+# Notes
+
 Do not store anything in the temp folder, it is called temp for a reason
 
 
 
 # File Organization
-be sure to annotate with a file desciption e.g. the tutorial vs process_faster
+
+be sure to annotate with a file desciption e.g. the tutorial vs process\_faster
+
