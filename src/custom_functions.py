@@ -1,12 +1,14 @@
-##=============== Unpack Tar ===================##
+## Packages
 import os
 import tarfile
 from pathlib import Path
 import xarray as xr
 import glob
-
+import matplotlib.pyplot as plt
 import numpy as np
 
+
+##=============== Unpack Tar ===================##
 #custom function to identify tar files and save into local memory and then delete temporaty file
 
 def unpak_single_tar(path, to_folder="temp"):
@@ -163,3 +165,5 @@ def stepped_coastline_cGENIE(lon_data, lat_data, datacrs_data, topo_bathy_file,l
                     latpts = [lat1, lat2]; #print latpts
                     lonpts = [lon1, lon2]; #print lonpts
                     plt.plot(lonpts,latpts,'-',linewidth=land_outline_linewidth, color='k',zorder=zorder,transform=datacrs_data)
+
+
