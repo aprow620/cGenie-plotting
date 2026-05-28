@@ -1,6 +1,6 @@
 
 
-Scripts used for cGenie data visualizations and data-model comparisons for Prow-Fleischer (in submission)
+Scripts used for cGenie data visualizations and data-model comparisons for Prow-Fleischer (in prep)
 
 
 For more generalizable analyses see: 
