@@ -1,4 +1,4 @@
-%Long	Lat 	I/Ca	label
+Long	Lat 	I/Ca	label
 -55.1	-18.16	0.99	DG
 -36.6	-27.68	2.30	BQ
 6.85	-17.61	2.97	SS
